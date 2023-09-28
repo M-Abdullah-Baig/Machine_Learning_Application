@@ -2,7 +2,7 @@
 
 ## ->) Binary Classification Web App :-
 
-####   Streamlit - Binary Classification App Interface 
+####   Streamlit - Binary Classification App Interface  
 
 
 ![1 ](https://github.com/M-Abdullah-Baig/Machine_Learning_Web_Application/assets/107646347/541949ce-4ce3-4d7f-8e93-7541f617fbb4)
