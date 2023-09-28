@@ -1,6 +1,6 @@
-# Machine_Learning_Application
+# Machine_Learning_Application :
 
-##-) Binary Classification Application
+## -) Binary Classification Application :-
 
 ### Streamlit - Binary Classification App Interface
 
